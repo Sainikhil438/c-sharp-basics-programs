@@ -1,0 +1,15 @@
+C:\Users\saini\source\repos\OopsProject\bin\Debug\net6.0\OopsProject.exe
+C:\Users\saini\source\repos\OopsProject\bin\Debug\net6.0\OopsProject.deps.json
+C:\Users\saini\source\repos\OopsProject\bin\Debug\net6.0\OopsProject.runtimeconfig.json
+C:\Users\saini\source\repos\OopsProject\bin\Debug\net6.0\OopsProject.dll
+C:\Users\saini\source\repos\OopsProject\bin\Debug\net6.0\OopsProject.pdb
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.AssemblyInfo.cs
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.dll
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\refint\OopsProject.dll
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.pdb
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\OopsProject.genruntimeconfig.cache
+C:\Users\saini\source\repos\OopsProject\obj\Debug\net6.0\ref\OopsProject.dll
