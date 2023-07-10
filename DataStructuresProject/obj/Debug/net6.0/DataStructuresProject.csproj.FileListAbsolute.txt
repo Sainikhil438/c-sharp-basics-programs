@@ -1,0 +1,15 @@
+C:\Users\saini\source\repos\DataStructuresProject\bin\Debug\net6.0\DataStructuresProject.exe
+C:\Users\saini\source\repos\DataStructuresProject\bin\Debug\net6.0\DataStructuresProject.deps.json
+C:\Users\saini\source\repos\DataStructuresProject\bin\Debug\net6.0\DataStructuresProject.runtimeconfig.json
+C:\Users\saini\source\repos\DataStructuresProject\bin\Debug\net6.0\DataStructuresProject.dll
+C:\Users\saini\source\repos\DataStructuresProject\bin\Debug\net6.0\DataStructuresProject.pdb
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.AssemblyInfo.cs
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.dll
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\refint\DataStructuresProject.dll
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.pdb
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\DataStructuresProject.genruntimeconfig.cache
+C:\Users\saini\source\repos\DataStructuresProject\obj\Debug\net6.0\ref\DataStructuresProject.dll
