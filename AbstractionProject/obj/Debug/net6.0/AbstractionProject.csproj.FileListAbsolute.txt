@@ -1,0 +1,15 @@
+C:\Users\saini\source\repos\AbstractionProject\bin\Debug\net6.0\AbstractionProject.exe
+C:\Users\saini\source\repos\AbstractionProject\bin\Debug\net6.0\AbstractionProject.deps.json
+C:\Users\saini\source\repos\AbstractionProject\bin\Debug\net6.0\AbstractionProject.runtimeconfig.json
+C:\Users\saini\source\repos\AbstractionProject\bin\Debug\net6.0\AbstractionProject.dll
+C:\Users\saini\source\repos\AbstractionProject\bin\Debug\net6.0\AbstractionProject.pdb
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.AssemblyInfo.cs
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.dll
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\refint\AbstractionProject.dll
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.pdb
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\AbstractionProject.genruntimeconfig.cache
+C:\Users\saini\source\repos\AbstractionProject\obj\Debug\net6.0\ref\AbstractionProject.dll
