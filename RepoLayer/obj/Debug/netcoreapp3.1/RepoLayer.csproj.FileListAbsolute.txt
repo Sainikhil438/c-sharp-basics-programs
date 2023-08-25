@@ -1,0 +1,16 @@
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.deps.json
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.runtimeconfig.json
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.runtimeconfig.dev.json
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.dll
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.pdb
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\saini\source\repos\RepoLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.AssemblyInfo.cs
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.csproj.CopyComplete
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.dll
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.pdb
+C:\Users\saini\source\repos\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.genruntimeconfig.cache
